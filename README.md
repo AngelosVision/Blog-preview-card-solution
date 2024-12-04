@@ -10,7 +10,7 @@ The challenge was to build a blog preview card component. The goal was to create
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yourusername/blog-preview-card)
+- Solution URL: [GitHub Repository]([https://github.com/yourusername/blog-preview-card](https://angelosvision.github.io/Blog-preview-card-solution/))
 - Live Site URL: [Live Site](https://yourusername.github.io/blog-preview-card)
 
 ## My process
